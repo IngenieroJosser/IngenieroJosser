@@ -1,7 +1,7 @@
 ¡Hola, Josser Córdoba Rivas! 👋🏾
 Apasionado desarrollador web con una sed constante de aprendizaje y mejora continua✨.
 ***************************************************************************************
-
+´´Josser´´
 Mis Habilidades 💻
 FrontEnd: HTML, CSS (Sass), JavaScript, React JS, Tailwind CSS
 BackEnd: Python, PHP
