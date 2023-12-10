@@ -1,7 +1,7 @@
 ¡Hola, **Josser Córdoba Rivas**! 👋🏾
 -------------------------------
 
-Apasionado desarrollador web con una sed constante de aprendizaje y mejora continua✨.
+Apasionado Desarrollador Web Frontend con una sed constante de aprendizaje y mejora continua✨.
 ******************************
 
 
