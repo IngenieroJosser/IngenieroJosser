@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Josser Córdoba Rivas
+# 👋 ¡Hola! Soy Josser Cordoba Rivas
 
 Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. Mi objetivo es transformar ideas en soluciones digitales impactantes a través del código. Tengo experiencia en diversas tecnologías y disfruto de la creación de aplicaciones que no solo funcionen bien, sino que también ofrezcan una excelente experiencia de usuario.
 
