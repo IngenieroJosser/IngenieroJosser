@@ -5,9 +5,8 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 ## 🚀 Sobre Mí
 
 - 🌱 En este momento, estoy profundizando mis conocimientos en *[tecnologías que estás aprendiendo, e.g., React Native, Python]*.
-- 🤝 Estoy abierto a colaborar en *proyectos innovadores* y contribuir en *iniciativas open-source*.
-- 📝 Me encanta compartir mi conocimiento y escribo regularmente artículos técnicos en *[tu blog o medio de publicación]*.
-- 🎯 Mi objetivo profesional es *[tu objetivo profesional, e.g., desarrollar soluciones tecnológicas que impulsen la educación]*.
+- 🤝 Estoy abierto a colaborar en *Proyectos Innovadores* y contribuir en *iniciativas open-source*.
+- 🎯 Mi objetivo profesional es *Desarrollar soluciones tecnológicas que impulsen la educación*.
 - 📫 Puedes contactarme en: *cordobarivasjosser11@gmail.com*.
 
 ## 🛠 Habilidades Técnicas
