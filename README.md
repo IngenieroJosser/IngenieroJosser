@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Josser Cordoba Rivas
+# 👋 ¡Hola! I'm Josser Cordoba Rivas
 
 Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. Mi objetivo es transformar ideas en soluciones digitales impactantes a través del código. Tengo experiencia en diversas tecnologías y disfruto de la creación de aplicaciones que no solo funcionen bien, sino que también ofrezcan una excelente experiencia de usuario.
 
@@ -43,7 +43,7 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 ## 🌍 Conéctate Conmigo
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jcori/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/JosserC)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com/jo33527?t=cnjPhwwTVuxlqTDl6cInfQ&s=09)
 - [![Correo Electrónico](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:cordobarivasjosser11@gmail.com)
 - [![Sitio Web Personal](https://img.shields.io/badge/-Sitio_Web-000000?logo=vercel&logoColor=fff)](https://josser.com)
 
