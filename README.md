@@ -48,14 +48,14 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub de Josser](https://github-readme-stats.vercel.app/api?username=JosserC&show_icons=true&theme=radical)
+![Estadísticas de GitHub de Josser](https://github-readme-stats.vercel.app/api?username=IngenieroJosser&show_icons=true&theme=radical)
 
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JosserC&layout=compact&theme=radical)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=IngenieroJosser&layout=compact&theme=radical)
 
 ## 💼 Proyectos Destacados
 
-- *[MathMaster](https://github.com/JosserC/MathMaster)*: Aplicación móvil para cuestionarios matemáticos, diseñada para mejorar la comprensión de conceptos matemáticos especiales.
-- *[TechNova](https://github.com/JosserC/TechNova)*: Sitio web corporativo para TechNova, una empresa dedicada al desarrollo de software con un enfoque en la innovación digital.
+- *[MathMaster](https://github.com/IngenieroJosser/MathMaster)*: Aplicación móvil para cuestionarios matemáticos, diseñada para mejorar la comprensión de conceptos matemáticos especiales.
+- *[TechNova](https://github.com/IngenieroJosser/TechNova)*: Sitio web corporativo para TechNova, una empresa dedicada al desarrollo de software con un enfoque en la innovación digital.
 
 ## 🌐 Idiomas
 
