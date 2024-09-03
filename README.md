@@ -43,9 +43,9 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 
 ## 🌍 Conéctate Conmigo
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/josser-cordoba-rivas/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jcori/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/JosserC)
-- [![Correo Electrónico](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:JosserC@gmail.com)
+- [![Correo Electrónico](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:cordobarivasjosser11@gmail.com)
 - [![Sitio Web Personal](https://img.shields.io/badge/-Sitio_Web-000000?logo=vercel&logoColor=fff)](https://josser.com)
 
 ## 📈 Estadísticas de GitHub
