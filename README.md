@@ -31,6 +31,8 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
+
 
 *Herramientas y Plataformas:*
 
