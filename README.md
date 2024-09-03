@@ -54,13 +54,13 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 
 ## 💼 Proyectos Destacados
 
-- *[MathMaster](https://github.com/IngenieroJosser/MathMaster)*: Aplicación móvil para cuestionarios matemáticos, diseñada para mejorar la comprensión de conceptos matemáticos especiales.
-- *[TechNova](https://github.com/IngenieroJosser/TechNova)*: Sitio web corporativo para TechNova, una empresa dedicada al desarrollo de software con un enfoque en la innovación digital.
+- *[MathMaster]([https://github.com/IngenieroJosser/MathMaster](https://github.com/IngenieroJosser/MathMaster))*: Aplicación móvil para cuestionarios matemáticos, diseñada para mejorar la comprensión de conceptos matemáticos especiales.
+- *[TechNova]([https://github.com/IngenieroJosser/TechNova](https://github.com/IngenieroJosser/technova__software))*: Sitio web corporativo para TechNova, una empresa dedicada al desarrollo de software con un enfoque en la innovación digital.
 
 ## 🌐 Idiomas
 
 - *Español*: Nativo
-- *Inglés*: [Tu nivel de inglés, e.g., Avanzado (C1)]
+- *Inglés*: [Tu nivel de inglés, e.g., Basico (A1)]
 - *Portugués*: [Tu nivel de portugués, e.g., Intermedio]
 
 ## 🎨 Intereses Personales
