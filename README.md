@@ -60,8 +60,8 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 ## 🌐 Idiomas
 
 - *Español*: Nativo
-- *Inglés*: [Tu nivel de inglés, e.g., Basico (A1)]
-- *Portugués*: [Tu nivel de portugués, e.g., Intermedio]
+- *Inglés*: Basico (A1)
+- *Portugués*: Basico - Intermedio
 
 ## 🎨 Intereses Personales
 
