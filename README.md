@@ -36,6 +36,7 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 
 
 *Movil:*
+
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB)
 
 
