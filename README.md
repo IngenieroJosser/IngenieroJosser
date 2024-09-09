@@ -24,7 +24,7 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
-![EJS](https://img.shields.io/badge/-EJS-5A29E4?logo=ejs&logoColor=fff)
+![EJS](https://img.shields.io/badge/-EJS-5A29E4?logo=ejs&logoColor=#FFFF00)
 
 
 *Backend:*
