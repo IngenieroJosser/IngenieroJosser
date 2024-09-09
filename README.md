@@ -35,6 +35,10 @@ Soy un desarrollador apasionado con un enfoque en el *desarrollo web y móvil*. 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
 
 
+*Movil:*
+![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB)
+
+
 *Herramientas y Plataformas:*
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
