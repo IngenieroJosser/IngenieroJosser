@@ -58,8 +58,8 @@ Soy un desarrollador apasionado, enfocado en *desarrollo web y móvil*. Mi objet
 
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/jcori/)
 * [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter\&logoColor=fff)](https://x.com/jo33527?t=cnjPhwwTVuxlqTDl6cInfQ&s=09)
-* [![Correo Electrónico](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=fff)](mailto:cordobarivasjosser11@gmail.com)
-* [![Sitio Web Personal](https://img.shields.io/badge/-Sitio_Web-000000?logo=vercel\&logoColor=fff)](https://josser.com)
+* [![Correo Electrónico](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=fff)](mailto:developerjosser@gmail.com)
+* [![Sitio Web Personal](https://img.shields.io/badge/-Sitio_Web-000000?logo=vercel\&logoColor=fff)]([https://josser.com](https://jossss.netlify.app/))
 
 ---
 
