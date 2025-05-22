@@ -44,10 +44,6 @@ Soy un desarrollador apasionado, enfocado en *desarrollo web y móvil*. Mi objet
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql\&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=fff)
 
-### Móvil
-
-![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react\&logoColor=61DAFB)
-
 ### Herramientas y Plataformas
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=fff)
