@@ -1,7 +1,7 @@
 
 ## 𝑰'𝒎 𝑱𝒐𝒔𝒔𝒆𝒓 𝑪𝒐𝒓𝒅𝒐𝒃𝒂 𝑹𝒊𝒗𝒂𝒔
 
-Soy un desarrollador apasionado, enfocado en *desarrollo web y móvil*. Transformo ideas en soluciones digitales que impactan positivamente en los usuarios. Tengo experiencia en diversas tecnologías y disfruto crear aplicaciones que no solo funcionen bien, sino que también ofrezcan una excelente experiencia de usuario.
+Soy un desarrollador apasionado, enfocado en *desarrollo web*. Transformo ideas en soluciones digitales que impactan positivamente en los usuarios. Tengo experiencia en diversas tecnologías y disfruto crear aplicaciones que no solo funcionen bien, sino que también ofrezcan una excelente experiencia de usuario.
 
 ---
 
@@ -36,7 +36,6 @@ Soy un desarrollador apasionado, enfocado en *desarrollo web y móvil*. Transfor
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express\&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs\&logoColor=fff)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js\&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi\&logoColor=fff)
 
 ### Bases de Datos
