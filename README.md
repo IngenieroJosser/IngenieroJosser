@@ -7,7 +7,7 @@ Soy un desarrollador apasionado, enfocado en *desarrollo web*. Transformo ideas 
 
 ## Sobre Mí
 
-* Full Stack Developer con visión senior. Experto en Next.js, NestJS y Prisma. Apasionado por el diseño de software escalable, seguro y sostenible. Fundador de Chocomedia, una plataforma SaaS para creadores de contenido cultural. Construyo productos digitales con propósito e impacto real.
+* Full Stack Developer. Experto en Next.js, NestJS y Prisma. Apasionado por el diseño de software escalable, seguro y sostenible. Fundador de Chocomedia, una plataforma SaaS para creadores de contenido cultural. Construyo productos digitales con propósito e impacto real.
 
 ## Conéctate Conmigo
 
