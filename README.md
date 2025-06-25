@@ -1,12 +1,5 @@
 
 ## 𝑰'𝒎 𝑱𝒐𝒔𝒔𝒆𝒓 𝑪𝒐𝒓𝒅𝒐𝒃𝒂 𝑹𝒊𝒗𝒂𝒔
-
-Soy un desarrollador apasionado, enfocado en *desarrollo web*. Transformo ideas en soluciones digitales que impactan positivamente en los usuarios. Tengo experiencia en diversas tecnologías y disfruto crear aplicaciones que no solo funcionen bien, sino que también ofrezcan una excelente experiencia de usuario.
-
----
-
-## Sobre Mí
-
 * Full Stack Developer con enfoque en calidad, propósito y sostenibilidad. Especializado en Next.js, NestJS y Prisma, disfruto crear software bien pensado, claro y escalable. Me apasiona escribir código limpio, entender a fondo los problemas y construir soluciones que no solo funcionen, sino que perduren. Siempre estoy buscando aprender, mejorar y dejar algo mejor de lo que encontré.
 
 ## Conéctate Conmigo
