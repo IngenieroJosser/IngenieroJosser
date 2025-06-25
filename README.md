@@ -7,9 +7,7 @@ Soy un desarrollador apasionado, enfocado en *desarrollo web*. Transformo ideas 
 
 ## Sobre Mí
 
-* Estoy abierto a colaborar en *Proyectos Innovadores* y contribuir en *iniciativas open-source*.
-* Mi meta profesional es **desarrollar soluciones tecnológicas que impulsen la educación**.
-* Puedes contactarme en: **[developerjosser@gmail.com](mailto:developerjosser@gmail.com)**
+* Full Stack Developer con visión senior. Experto en Next.js, NestJS y Prisma. Apasionado por el diseño de software escalable, seguro y sostenible. Fundador de Chocomedia, una plataforma SaaS para creadores de contenido cultural. Construyo productos digitales con propósito e impacto real.
 
 ## Conéctate Conmigo
 
