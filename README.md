@@ -1,3 +1,3 @@
 
 ## 𝑭𝒖𝒍𝒍𝑺𝒕𝒂𝒄𝒌 - 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
-𝙽𝚘 𝚍𝚒𝚜𝚎𝚗̃𝚘 𝚌ó𝚍𝚒𝚐𝚘; 𝚍𝚎𝚏𝚒𝚗𝚘 𝚊𝚛𝚚𝚞𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚊 𝚚𝚞𝚎 𝚎𝚜𝚌𝚊𝚕𝚊 𝚐𝚛𝚊𝚗𝚍𝚎, 𝚜𝚘𝚜𝚝𝚒𝚎𝚗𝚎 𝚘𝚙𝚎𝚛𝚊𝚌𝚒𝚘𝚗𝚎𝚜 𝚌𝚛í𝚝𝚒𝚌𝚊𝚜 𝚢 𝚌𝚘𝚗𝚟𝚒𝚎𝚛𝚝𝚎 𝚒𝚗𝚒𝚌𝚒𝚊𝚝𝚒𝚟𝚊𝚜 𝚎𝚗 𝚜𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝚒𝚖𝚙𝚊𝚌𝚝𝚊𝚗𝚝𝚎𝚜.
+No diseño código; defino arquitecturas escalables a gran escala, que respaldan operaciones críticas y transforman iniciativas en sistemas de alto impacto, impulsados por principios de ciencia de datos para optimizar la toma de decisiones basada en evidencia.
