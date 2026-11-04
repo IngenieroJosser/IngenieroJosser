@@ -1,10 +1,17 @@
 
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=28&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=950&height=65&lines=Software+Engineering+%C2%B7+Data+Science+%C2%B7+Architecture"
-    alt="Software Engineering · Data Science · Architecture"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=transparent&amp;height=90&amp;text=Software%20Engineering%20%C2%B7%20Data%20Science%20%C2%B7%20Architecture&amp;fontFamily=Geist&amp;fontSize=27&amp;fontColor=F0F6FC&amp;animation=fadeIn"
+    />
+    <img
+      src="https://capsule-render.vercel.app/api?type=transparent&amp;height=90&amp;text=Software%20Engineering%20%C2%B7%20Data%20Science%20%C2%B7%20Architecture&amp;fontFamily=Geist&amp;fontSize=27&amp;fontColor=1F2328&amp;animation=fadeIn"
+      alt="Software Engineering · Data Science · Architecture"
+      width="100%"
+    />
+  </picture>
 
   <p>
     Más allá del código: arquitectura, datos e ingeniería para construir
